@@ -1,3 +1,3 @@
 # test-repo
 
-Repo for testing purposes
+Repo for testing purposes.
